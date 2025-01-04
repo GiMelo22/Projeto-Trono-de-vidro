@@ -1,0 +1,1 @@
+oii, tudo bem?? Esse é um projeto para apresentar alguns dos personagens do livro de fantasia "trono de vidro" em um cartão, uns dos meus livros favoritos.
