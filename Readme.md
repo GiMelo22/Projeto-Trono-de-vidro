@@ -1,7 +1,7 @@
 
 <h2> Descrição do projeto</h2>
 
-oii, tudo bem?? Este é um projeto para apresentar alguns dos personagens principais do livro de fantasia "trono de vidro" em um cartão didatico.
+oii, tudo bem?? Este é um projeto para apresentar alguns dos personagens principais do livro de fantasia "trono de vidro" em um cartão didático.
 
 <h2> Demonstração ⚔️ </h2>
 
